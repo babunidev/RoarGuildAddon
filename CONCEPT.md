@@ -1,6 +1,10 @@
-# RoarGuild — creative concept
+# Roar Guild Addon — creative concept
 
-**Creative author:** Babuni.dev.
+**Creative author:** Babuni.
+
+## An addon made for my guild
+
+The ROAR guild was already a social identity, and I wanted an addon that could accompany it instead of being mistaken for the guild itself. The hope was that members would use the emotes, recruitment invitations and shared interactions together. Calling the project **Roar Guild Addon** now keeps that distinction visible. The code retains the original **RoarGuild** package identity.
 
 ## Presence rather than performance
 
@@ -26,4 +30,4 @@ Keep related addons separate in the portfolio while explaining verified lineage 
 
 ## Not the project
 
-RoarGuild is not a DPS tool, automatic guild spammer, secure messaging service, medical reminder application in its current form, or substitute for player social interaction. The original author remains the creative authority; an AI collaborator may analyze, propose and implement only within the direction that Babuni.dev accepts.
+RoarGuild is not a DPS tool, automatic guild spammer, secure messaging service, medical reminder application in its current form, or substitute for player social interaction. The original author remains the creative authority; an AI collaborator may analyze, propose and implement only within the direction that Babuni accepts.
