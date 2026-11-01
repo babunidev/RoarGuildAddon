@@ -1,10 +1,14 @@
-# RoarGuild — characters are stories in motion
+# Roar Guild Addon — characters are stories in motion
 
-**Creator and project author:** Babuni.dev  
+**Creator and project author:** Babuni  
 **Current version:** 1.33  
 **Target declared by manifest:** World of Warcraft 1.12 / interface `11200`  
 **Primary files:** `roarguild.lua`, `roarguild.toc`  
 **Verification status:** Source and Git history inspected 2026-10-26; live-client behavior not retested.
+
+This is my **Roar Guild Addon**, originally named **RoarGuild**. I made it in connection with the **ROAR guild**, hoping guild members would use the character emotes and invitation messages as part of our shared identity. The new name makes it clear that the guild and the addon are separate things.
+
+The GitHub repository is [RoarGuildAddon](https://github.com/babunidev/RoarGuildAddon). Its installed addon remains **RoarGuild**, with `roarguild.lua`, `roarguild.toc`, `ROGUDB` and `/rogu` unchanged.
 
 **RoarGuild** is a World of Warcraft character-expression and community addon. It connects three kinds of experience: action-button-driven emotes, welcoming recruitment language for the ROAR guild, and **Roarboard**, a peer-shared message board. The original creative description gives its center of gravity:
 
@@ -81,7 +85,7 @@ Posts are retained in a local SavedVariables cache and pruned **seven days after
 
 The January 2026 first version combined a ROARRunlimited-like emote system with a **GodBod microexercise** component and two slash commands. The later January 2026 versions **removed GodBod**, expanded the profile/emote/fallback/recruitment functionality and matured the standalone RoarGuild scope. Roarboard added a shared community layer in August. These steps are documented from commits, not an invented conversation.
 
-The project has an existing **MIT LICENSE** credited to Babuni.dev. This documentation review did **not** modify Lua, TOC or license, perform client tests, or merge the related `roar`, `roarr`, `ROARRunlimited`, and `WorkThatGodBod` repositories.
+The project has an existing **MIT LICENSE** credited to Babuni. This documentation review did **not** modify Lua, TOC or license, perform client tests, or merge the related `roar`, `roarr`, `ROARRunlimited`, and `WorkThatGodBod` repositories.
 
 ## Development documentation
 
