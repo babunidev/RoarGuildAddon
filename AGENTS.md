@@ -1,6 +1,12 @@
-# RoarGuild — developer and AI collaborator rules
+# Roar Guild Addon — developer and AI collaborator rules
 
-**Project creator and creative director:** Babuni.dev.
+**Project creator and creative director:** Babuni.
+
+## Naming and publication voice
+
+**Roar Guild Addon** is the project title, with GitHub repository `RoarGuildAddon`. **ROAR** refers to the guild; **RoarGuild** is the old project/package identity. Do not conflate the guild with its optional addon, or rename `roarguild.lua`, `roarguild.toc`, `/rogu` or `ROGUDB` during documentation work.
+
+Write public development narratives from my first-person perspective, without beginning a sentence with “I” or “My”. Use **Babuni** for personal identity and **babuni.dev** for the wider portfolio; use **creative** rather than “creator” as a human role. Attribute work performed by AI explicitly, preserving differences between ideas, code, changes and verification. The human motivation for guild members to use the addon and invitation messages is now directly stated; do not invent adoption statistics or claim members actually used it.
 
 ## Identity and authorship
 
