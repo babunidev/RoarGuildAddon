@@ -1,6 +1,6 @@
-# RoarGuild — creative ownership, AI assistance and provenance
+# Roar Guild Addon — creative ownership, AI assistance and provenance
 
-**Human project author and creative director:** Babuni.dev.
+**Human project author and creative director:** Babuni.
 
 ## What is actually recorded
 
@@ -22,7 +22,7 @@ For material changes, preserve:
 1. The creator's original direction and why it mattered.
 2. AI suggestions, architecture and tradeoffs—not silently accepted requirements.
 3. Alternative approaches, misunderstandings, iterations and corrections.
-4. Explicit decisions Babuni.dev accepted, rejected or postponed.
+4. Explicit decisions Babuni accepted, rejected or postponed.
 5. Actual file paths, commits, PRs and migration notes.
 6. Tests performed, observed results and limits to confidence.
 
@@ -30,4 +30,8 @@ Write publishable narrative summaries, not raw private chat transcripts. Keep ot
 
 ## Attribution and legal boundary
 
-The repository's existing MIT LICENSE is credited to **Babuni.dev (2026)**. Displayed author credit in the TOC and README agrees. Licensing and source credit should be maintained without silent changes. Any third-party game emotes or user-generated board content have their own origin and must not be rebranded as Babuni.dev-authored prose.
+The repository's existing MIT LICENSE is credited to **Babuni (2026)**. Displayed author credit in the TOC and README agrees. Licensing and source credit should be maintained without silent changes. Any third-party game emotes or user-generated board content have their own origin and must not be rebranded as Babuni-authored prose.
+
+## November 2026 — guild and addon distinction
+
+The decision to rename this repository **RoarGuildAddon** came from my wish to separate the actual ROAR guild from the addon made for its members. The original hope was that members would use the emotes, invitations and other social features. An AI assistant updated the current documentation at my request, without changing addon code or independently verifying member adoption.
