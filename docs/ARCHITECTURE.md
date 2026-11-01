@@ -1,4 +1,6 @@
-# RoarGuild — architecture v1.33
+# Roar Guild Addon — architecture v1.33
+
+This describes the original **RoarGuild** runtime in the renamed **RoarGuildAddon** repository, not the guild organization itself. The source identifiers and communication mechanisms remain unchanged.
 
 **Sources:** `roarguild.lua`, `roarguild.toc` on 2026-10-26. **Static inspection**, not a live WoW test.
 
