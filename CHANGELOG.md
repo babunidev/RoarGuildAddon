@@ -1,6 +1,6 @@
-# RoarGuild — changelog
+# Roar Guild Addon — changelog
 
-**Project author:** Babuni.dev. Historical dates here are **Git commit dates**, not asserted release or in-game-test dates.
+**Project author:** Babuni. Historical dates here are **Git commit dates**, not asserted release or in-game-test dates.
 
 ## 2026-10-26 — expanded portfolio/developer documentation
 
@@ -25,3 +25,9 @@
 | **2026-10-26** | Prior author-credit and docs commits | Standardized display credit and added an initial lightweight documentation scaffold before this expansion. |
 
 The source is the authority for current functionality. Past commit messages do not reveal every discussion, motivation, or success/failure in game. Do not infer that all originally proposed features were approved or retained.
+
+## 2026-11-01 — Roar Guild Addon naming
+
+- I renamed the GitHub repository from `RoarGuild` to `RoarGuildAddon` to distinguish the addon from my ROAR guild.
+- I clarified that the addon was made for guild members, including its emote and manual invitation features; this records my intent, not verified adoption.
+- At my request, AI updated documentation only. No Lua, TOC, license or gameplay test was changed.
