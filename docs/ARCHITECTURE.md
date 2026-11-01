@@ -74,3 +74,7 @@ New `ROGUDB.emotes[1]` defaults to ROAR. The code sanitizes instance ID selectio
 ## Events and compatibility
 
 The addon listens for `PLAYER_LOGIN`, `PLAYER_LOGOUT` and `CHAT_MSG_CHANNEL`. It seeds `math.random` on login (affecting global Lua RNG state), initializes profile and board, prunes posts, and attempts to join the custom channel. The global `UseAction` wrapper may interact with other addon hooks. There are no automated tests in the inspected repo. Interface 11200 support and exact WoW event argument behavior require testing in the target client.
+
+## Related development history
+
+Roar Guild Addon (originally RoarGuild) combines the earlier multi-action trigger concept with an **expandable registry of client-native emote tokens**. Its master list starts with ROAR (ID 1), players can register additional client emote tokens via `/rogu emote <TOKEN>`, and select their IDs for individual trigger instances. Guild invitation messages are **manual recruitment chat broadcasts**, while the later August 2026 Roarboard provides a separate community feature. This Vanilla 1.12 history is distinct from the Wrath-targeted ROARTrigger port. Read [the full family timeline](EMOTE_FAMILY_HISTORY.md) for how these capabilities arose in the related repositories.

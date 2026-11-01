@@ -31,3 +31,8 @@ The source is the authority for current functionality. Past commit messages do n
 - I renamed the GitHub repository from `RoarGuild` to `RoarGuildAddon` to distinguish the addon from my ROAR guild.
 - I clarified that the addon was made for guild members, including its emote and manual invitation features; this records my intent, not verified adoption.
 - At my request, AI updated documentation only. No Lua, TOC, license or gameplay test was changed.
+
+## 2026-11-01 — documented the emote-family evolution
+
+- Clarified this project's expandable native-emote registry as a new capability relative to the fixed earlier battle-emote lists.
+- Linked [the complete family history](docs/EMOTE_FAMILY_HISTORY.md) and separated the Wrath port from later Roarboard features. No Lua/TOC edits.

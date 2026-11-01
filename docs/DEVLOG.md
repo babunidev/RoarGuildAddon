@@ -58,3 +58,7 @@ Should Roarboard be open to anyone sharing the custom channel, or should it repr
 ## November 2026 — separating the guild from its addon
 
 The addon was made in connection with my **ROAR guild**, and I hoped members would use it to share expressive emotes and recruitment invitations. The name **RoarGuild** did not clearly separate the actual guild from the software built around it, so I renamed the GitHub repository **RoarGuildAddon** and chose **Roar Guild Addon** as its public title. My AI assistant revised the project documentation at my direction. This does not establish how widely members used it, and no runtime features were changed or tested during this documentation pass.
+
+## 1 November 2026 — finding the editable-emote milestone
+
+Comparing my earlier battle-emote experiments revealed where player-added emotes actually arrived: **this Roar Guild addon**, not ROAR/ROARR or ROARRunlimited. The master list begins with ROAR and players can add client-recognized emote tokens and associate them with numbered trigger instances. I remembered the ROAR guild recruitment copy as another favorite part of this project; its manual invite command sends welcoming chat text, not a game invitation to a named player. My AI assistant verified the source and placed it in [the family history](EMOTE_FAMILY_HISTORY.md), alongside the later Wrath port and Flourish Forever. No runtime changes or game tests.

@@ -31,3 +31,7 @@ Keep related addons separate in the portfolio while explaining verified lineage 
 ## Not the project
 
 RoarGuild is not a DPS tool, automatic guild spammer, secure messaging service, medical reminder application in its current form, or substitute for player social interaction. The original author remains the creative authority; an AI collaborator may analyze, propose and implement only within the direction that Babuni accepts.
+
+## Related development history
+
+Roar Guild Addon (originally RoarGuild) combines the earlier multi-action trigger concept with an **expandable registry of client-native emote tokens**. Its master list starts with ROAR (ID 1), players can register additional client emote tokens via `/rogu emote <TOKEN>`, and select their IDs for individual trigger instances. Guild invitation messages are **manual recruitment chat broadcasts**, while the later August 2026 Roarboard provides a separate community feature. This Vanilla 1.12 history is distinct from the Wrath-targeted ROARTrigger port. Read [the full family timeline](docs/EMOTE_FAMILY_HISTORY.md) for how these capabilities arose in the related repositories.

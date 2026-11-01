@@ -36,3 +36,7 @@ The source also does not implement a moderator/admin panel, post deletion comman
 - Can guild invitations be directed to the intended channel without mistakes?
 
 These are proposed test questions, not evidence of user research or an approved redesign.
+
+## Related development history
+
+Roar Guild Addon (originally RoarGuild) combines the earlier multi-action trigger concept with an **expandable registry of client-native emote tokens**. Its master list starts with ROAR (ID 1), players can register additional client emote tokens via `/rogu emote <TOKEN>`, and select their IDs for individual trigger instances. Guild invitation messages are **manual recruitment chat broadcasts**, while the later August 2026 Roarboard provides a separate community feature. This Vanilla 1.12 history is distinct from the Wrath-targeted ROARTrigger port. Read [the full family timeline](EMOTE_FAMILY_HISTORY.md) for how these capabilities arose in the related repositories.

@@ -93,3 +93,7 @@ The project has an existing **MIT LICENSE** credited to Babuni. This documentati
 - [Architecture and protocol](docs/ARCHITECTURE.md) · [Decision record](docs/DECISIONS.md) · [Narrative journal](docs/DEVLOG.md)
 - [Roadmap and verification](ROADMAP.md) · [Changelog](CHANGELOG.md)
 - [AI collaboration and attribution](docs/AI_COLLABORATION.md) · [Contributor instructions](AGENTS.md)
+
+## The guild addon's place in the emote family
+
+Roar Guild Addon (originally RoarGuild) combines the earlier multi-action trigger concept with an **expandable registry of client-native emote tokens**. Its master list starts with ROAR (ID 1), players can register additional client emote tokens via `/rogu emote <TOKEN>`, and select their IDs for individual trigger instances. Guild invitation messages are **manual recruitment chat broadcasts**, while the later August 2026 Roarboard provides a separate community feature. This Vanilla 1.12 history is distinct from the Wrath-targeted ROARTrigger port. See the [cross-repository history](docs/EMOTE_FAMILY_HISTORY.md) for the preceding fixed-pool experiments and the subsequent Flourish Forever spellcast model.

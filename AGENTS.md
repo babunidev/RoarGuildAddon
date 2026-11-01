@@ -35,3 +35,7 @@ Document **human direction**, **AI proposals**, **creative iteration**, **explic
 6. For every implementation update, revise README, CHANGELOG, DEVLOG, DECISIONS, DESIGN, CONTENT and ROADMAP as applicable and report real test results.
 
 The October 26, 2026 documentation pass neither approved new functionality nor tested WoW runtime behavior.
+
+## Shared emote-history reference
+
+Follow [the source-grounded family history](docs/EMOTE_FAMILY_HISTORY.md) when describing related addons. This project implements an editable *native-token registry* and manual recruitment chat messages; do not extend those claims backward to the early five/four-token battle addons or into an automatic GuildInvite API. Preserve the separate Wrath port and the later Roarboard date.

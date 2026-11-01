@@ -35,3 +35,7 @@ The repository's existing MIT LICENSE is credited to **Babuni (2026)**. Displaye
 ## November 2026 — guild and addon distinction
 
 The decision to rename this repository **RoarGuildAddon** came from my wish to separate the actual ROAR guild from the addon made for its members. The original hope was that members would use the emotes, invitations and other social features. An AI assistant updated the current documentation at my request, without changing addon code or independently verifying member adoption.
+
+## Related development history
+
+Roar Guild Addon (originally RoarGuild) combines the earlier multi-action trigger concept with an **expandable registry of client-native emote tokens**. Its master list starts with ROAR (ID 1), players can register additional client emote tokens via `/rogu emote <TOKEN>`, and select their IDs for individual trigger instances. Guild invitation messages are **manual recruitment chat broadcasts**, while the later August 2026 Roarboard provides a separate community feature. This Vanilla 1.12 history is distinct from the Wrath-targeted ROARTrigger port. Read [the full family timeline](EMOTE_FAMILY_HISTORY.md) for how these capabilities arose in the related repositories.
