@@ -1,6 +1,6 @@
-# RoarGuild — observed choices, unresolved decisions and alternatives
+# Roar Guild Addon — observed choices, unresolved decisions and alternatives
 
-**Decision authority:** Babuni.dev. Source evidence is not itself a record of formal conversations or approvals.
+**Decision authority:** Babuni. Source evidence is not itself a record of formal conversations or approvals.
 
 ## Implemented, evidenced choices
 
@@ -40,6 +40,10 @@ The August 2026 board added a community record layer. September shortened recrui
 3. Should stats and reminders remain as written or become optional to avoid competitive pressure?
 4. Should fallback and configured slots be able to both produce emotes on one press?
 5. Which historical combined-GodBod experiments deserve portfolio focus without reintroducing removed behavior?
-6. Does Babuni.dev want clearer channel selection and explicit confirmation for recruitment posts?
+6. Does Babuni want clearer channel selection and explicit confirmation for recruitment posts?
 
 No executable feature or policy decision was made by the documentation-only session.
+
+## November 2026 — name and community purpose
+
+The public project name is **Roar Guild Addon**, and the GitHub repository is **RoarGuildAddon**. I chose this to distinguish the addon from the ROAR guild itself and to preserve the original intention of encouraging guild members to share emotes and invitation messages. The installed **RoarGuild** addon identifiers remain unchanged. AI performed documentation edits only.
