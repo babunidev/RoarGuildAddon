@@ -1,6 +1,6 @@
-# RoarGuild — narrative development journal
+# Roar Guild Addon — narrative development journal
 
-**Human creator and creative director:** Babuni.dev  
+**Human creator and creative director:** Babuni  
 **Retrospective compiled:** 2026-10-26 from the repository README, TOC, current Lua and selected Git diffs. This is **not** an original chat transcript; motivations and approvals are not invented.
 
 ## January 10, 2026: combining two little experiments
@@ -45,7 +45,7 @@ The current guild copy avoids the language of performance meters. It invites pla
 
 ## October 26: documenting rather than rewriting
 
-Earlier October 26 commits established Babuni.dev display attribution and a short docs scaffold. The present pass examined the extensive repository and Git history, rewrote the user guide and developer documentation, identified technical and privacy boundaries in Roarboard, and distinguished old GodBod functionality from the current RoarGuild release.
+Earlier October 26 commits established Babuni display attribution and a short docs scaffold. The present pass examined the extensive repository and Git history, rewrote the user guide and developer documentation, identified technical and privacy boundaries in Roarboard, and distinguished old GodBod functionality from the current RoarGuild release.
 
 **AI contribution in this pass:** source inspection, technical analysis, narrative reconstruction and Markdown documentation changes. **User role:** original creative authority and sole arbiter of future direction. **Not done:** runtime Lua changes, TOC edits, license changes, gameplay/network tests, guild membership verification, approval of new protocols or merging other repositories.
 
@@ -54,3 +54,7 @@ Earlier October 26 commits established Babuni.dev display attribution and a shor
 Should Roarboard be open to anyone sharing the custom channel, or should it represent the ROAR guild's actual membership? Should a reaction be limited per person? Do the playful statistics and seven-minute reminder fit the creator's wish for a non-performance-oriented guild? The code poses these questions; the creator has not answered them in the evidence available for this pass. Future journal entries should record the actual conversation and decision when that happens.
 
 **Evidence confirmed:** dated commits, current feature structure, source-level timing and protocol, stated creative philosophy. **Evidence still missing:** complete original discussion history, client-side gameplay tests, synchronization/security outcomes and user experience feedback.
+
+## November 2026 — separating the guild from its addon
+
+The addon was made in connection with my **ROAR guild**, and I hoped members would use it to share expressive emotes and recruitment invitations. The name **RoarGuild** did not clearly separate the actual guild from the software built around it, so I renamed the GitHub repository **RoarGuildAddon** and chose **Roar Guild Addon** as its public title. My AI assistant revised the project documentation at my direction. This does not establish how widely members used it, and no runtime features were changed or tested during this documentation pass.
