@@ -1,6 +1,8 @@
-# RoarGuild — writing, emotes and board content
+# Roar Guild Addon — writing, emotes and board content
 
-**Creative author:** Babuni.dev  
+The guild recruitment messages, emote text and Roarboard content belong to the **Roar Guild Addon**, created to accompany the **ROAR guild**. They do not constitute the guild's organizational identity or prove members adopted the addon.
+
+**Creative author:** Babuni  
 **Source of truth:** `roarguild.lua` and its historical Git revisions.
 
 ## ROAR as a design motif
