@@ -1,6 +1,8 @@
-# RoarGuild — interaction, visual design and community experience
+# Roar Guild Addon — interaction, visual design and community experience
 
-**Creative director:** Babuni.dev.
+This addon was meant to give members of my **ROAR guild** a shared expressive tool, including emotes and invitation messages. Its new public name, **Roar Guild Addon**, separates that optional software from the guild itself.
+
+**Creative director:** Babuni.
 
 ## The character as an expressive participant
 
