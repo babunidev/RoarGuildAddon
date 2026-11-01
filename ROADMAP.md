@@ -1,6 +1,8 @@
-# RoarGuild — verification, security, and creator choices
+# Roar Guild Addon — verification, security, and creator choices
 
-**Creator:** Babuni.dev  
+The GitHub project is **RoarGuildAddon**, titled **Roar Guild Addon**, while the actual guild is **ROAR**. My hope was to encourage guild members to use the addon and recruitment messages. The historical runtime identifiers remain unchanged; no adoption or in-game testing is asserted by this rename.
+
+**Creator:** Babuni  
 **Status:** documented existing behavior plus proposed verification. **No new runtime features approved in this documentation pass.**
 
 ## Current implementation baseline
@@ -45,4 +47,4 @@ No tests above have been run by this documentation audit.
 - Does Roarboard remain a lightweight peer cache, or need a stronger synchronization model?
 - Which parts of the early combined GodBod version deserve treatment as a historical experiment versus a portfolio feature?
 
-Document explicit Babuni.dev decisions before implementing alternatives. Preserve verification evidence, client builds, screenshots/logs and Git references.
+Document explicit Babuni decisions before implementing alternatives. Preserve verification evidence, client builds, screenshots/logs and Git references.
