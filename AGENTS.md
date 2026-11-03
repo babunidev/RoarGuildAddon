@@ -1,6 +1,6 @@
 # Roar Guild Addon — developer and AI collaborator rules
 
-**Project creator and creative director:** Babuni.
+**Human creative and director:** Babuni.
 
 ## Naming and publication voice
 
@@ -39,3 +39,7 @@ The October 26, 2026 documentation pass neither approved new functionality nor t
 ## Shared emote-history reference
 
 Follow [the source-grounded family history](docs/EMOTE_FAMILY_HISTORY.md) when describing related addons. This project implements an editable *native-token registry* and manual recruitment chat messages; do not extend those claims backward to the early five/four-token battle addons or into an automatic GuildInvite API. Preserve the separate Wrath port and the later Roarboard date.
+
+## Repository-local documentation standard
+
+Before writing or changing project documentation, read [docs/DOCUMENTATION.md](docs/DOCUMENTATION.md). These rules travel with this repository and do not depend on the babuni.dev ChatGPT Project. Preserve all project-specific technical, creative, canon, safety, licensing, and historical rules in this file; follow the linked standard for public first-person narrative, human–AI attribution, concise development journals, decision records, and evidence-based verification. **Babuni** is the human creative; **babuni.dev** is the website/portfolio, not the person. Preserve third-party credits and historical legal notices. References above to a dated “documentation-only audit” describe that past task, not a permanent ban on later authorized implementation.
