@@ -12,7 +12,7 @@ Write public development narratives from my first-person perspective, without be
 
 Preserve the intent: in-world character presence, joyful guild recruitment and community stories—not DPS optimization. Do not attribute the original concept, guild values, or characteristic language to AI. AI research and documented implementation contributions must be separately credited.
 
-Document **human direction**, **AI proposals**, **creative iteration**, **explicit creator decisions**, **changed paths/commits**, and **actual verification** in `docs/DEVLOG.md` and `docs/AI_COLLABORATION.md`. Label historical reconstruction; do not invent dialogue, approvals or user testing.
+Document **human direction**, **AI proposals**, **creative iteration**, **explicit creative decisions**, **changed paths/commits**, and **actual verification** in `docs/DEVLOG.md` and `docs/AI_COLLABORATION.md`. Label historical reconstruction; do not invent dialogue, approvals or user testing.
 
 ## Preserve accurate technical boundaries
 
