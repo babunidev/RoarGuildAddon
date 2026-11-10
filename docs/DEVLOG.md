@@ -1,6 +1,6 @@
-# Roar Guild Addon — narrative development journal
+# Roar Guild Addon — development journal
 
-**Human creator and creative director:** Babuni  
+**Creative:** Babuni  
 **Retrospective compiled:** 2026-10-26 from the repository README, TOC, current Lua and selected Git diffs. This is **not** an original chat transcript; motivations and approvals are not invented.
 
 ## January 10, 2026: combining two little experiments
